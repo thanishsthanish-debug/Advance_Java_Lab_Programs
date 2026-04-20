@@ -13,3 +13,11 @@
 1b-5 o/p : https://github.com/thanishsthanish-debug/Advance_Java_Lab_Programs/blob/main/p5output.png
 
 1b-6 o/p : https://github.com/thanishsthanish-debug/Advance_Java_Lab_Programs/blob/main/p6output.png
+
+1b-7 o/p : https://github.com/thanishsthanish-debug/Advance_Java_Lab_Programs/blob/main/p7output.png
+
+1b-8 o/p : https://github.com/thanishsthanish-debug/Advance_Java_Lab_Programs/blob/main/p8output.png
+
+1b-9 o/p : https://github.com/thanishsthanish-debug/Advance_Java_Lab_Programs/blob/main/p9output.png
+
+1b-10 o/p : https://github.com/thanishsthanish-debug/Advance_Java_Lab_Programs/blob/main/p10output.png
